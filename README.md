@@ -56,5 +56,5 @@ On the left side you can see your Active and the History of Todos
 
 ![Video Record](https://github.com/Vinay9838/todos/blob/master/static/assets/images/videoRecorded.png?raw=true)
 
-
+> Note: Video and Audio recorder is managed by <a href="https://videojs.com/" target="_blank"> videojs </a> library
 
