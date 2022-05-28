@@ -1,0 +1,17 @@
+.idea/
+*.swp
+.env
+.env.example
+myenv/
+venv/
+hrms_env/
+*/__pycache__/*
+__pycache__/
+logs/
+staticfiles/
+media/
+.vscode/
+.env
+.coverage
+my_env
+db.sqlite3
